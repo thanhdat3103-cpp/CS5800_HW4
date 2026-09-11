@@ -39,7 +39,7 @@ public class CompositionDemo {
 
         // Files inside public
         publicFolder.addFile(new File(".htaccess"));
-        publicFolder.addFile(new File("htrouter.php"));
+        publicFolder.addFile(new File(".htrouter.php"));
         publicFolder.addFile(new File("index.html"));
 
 
